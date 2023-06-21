@@ -44,3 +44,10 @@
 2023-06-21	02:33	263c104a-9d2a-4368-aad2-23517d20591c	GET	undefined	/subdir/text/
 2023-06-21	02:35	bd70570b-2e12-4165-a281-b59e401d07ba	GET	undefined	/subdir/
 2023-06-21	02:35	35447d0f-317d-4b10-9a87-b6226070af96	GET	undefined	/subdir/css/styles.css
+2023-06-21	03:21	ecaaa6af-0488-4fbc-934d-9f9d29749bcf	GET	undefined	/employees
+2023-06-21	03:22	b9c950c0-071f-4767-b28a-de6d0da04741	POST	undefined	/employees?firstname=Ibnballo&lastname=alfatech
+2023-06-21	03:25	c6e566e6-1dd2-4bb4-8733-358ec2c631d9	POST	undefined	/employees?firstname=Ibnballo&lastname=alfatech
+2023-06-21	03:28	ca4f00be-2e5c-4317-95eb-dd342d48cf7c	POST	undefined	/employees
+2023-06-21	03:29	e65c010c-ee37-4795-ab7f-354b052092ab	POST	undefined	/employees
+2023-06-21	03:30	df28df42-22bd-4f39-affe-d867a82634e4	PUT	undefined	/employees
+2023-06-21	03:31	066e9e63-631f-4724-b542-0f4ff99fb148	DELETE	undefined	/employees
