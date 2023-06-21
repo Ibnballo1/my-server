@@ -1,18 +1,8 @@
-2023-06-20	10:42	a2dcda65-90aa-4564-9632-97991e28e0a0	/notexist	GET
-2023-06-20	10:45	41d2499e-cde6-4db8-91ce-d20016bf7604	/notexist	GET
-2023-06-20	10:45	dba56383-d60e-478b-9d56-47d4d084be86	/css/styles.css	GET
-2023-06-20	10:45	20da9fa6-52ab-4c88-a9d0-540e255ed7d3	/favicon.ico	GET
-2023-06-20	10:46	cea41349-e8f3-426d-9992-add1e6e993e3	/data/data.json	GET
-2023-06-20	10:46	a3d6a9ed-54bf-45ab-ab4b-939241f38dc2	/data/data.txt	GET
-2023-06-20	10:46	a2688b13-ffa4-40fa-9b15-e9a265880b28	/	GET
-2023-06-20	10:46	3c82f4c5-f2e1-44ff-9539-d95bc44af35d	/css/styles.css	GET
-2023-06-20	10:49	5c61f45c-3fce-4aa3-b00a-d66fc0b9f35a	/new-page.html	GET
-2023-06-20	10:49	f705597b-5693-43d6-b303-d5f69b1a7fc2	/css/styles.css	GET
-2023-06-20	10:50	0caff937-50b9-49d9-82d4-04b7c626f3e4	/new-page.html	GET
-2023-06-20	10:50	272f19e1-e7b0-48c4-9caf-736c6dc0bbbe	/css/styles.css	GET
-2023-06-20	10:50	986d84bb-7fdd-4b78-95d3-3bd6d4eb2498	/img/helicopter.jpg	GET
-2023-06-20	10:54	c19360db-ae6e-4fc9-8353-52b2bd7a3890	/new-page.html	GET
-2023-06-20	10:54	64900e57-6d74-41e8-8bda-96cf028ba069	/css/styles.css	GET
-2023-06-20	10:54	8c4072be-5278-4556-8e41-7f1b600ba068	/img/helicopter.jpg	GET
-2023-06-20	10:59	62e089c5-0865-4feb-bbca-6bda27826c9a	/	GET
-2023-06-20	10:59	30664994-09a2-45cc-a517-771b54789f81	/css/styles.css	GET
+2023-06-21	12:10	04617ace-22f9-41d2-ac31-a8ef2a904f47	GET	undefined	/
+2023-06-21	12:11	c7e2f19f-ea2f-437f-bbdb-98f713057f7e	GET	undefined	/
+2023-06-21	12:13	a19d0630-c429-4166-b32c-8e6341c2e088	GET	undefined	/
+2023-06-21	12:14	962174f6-a482-4a86-8ab0-2e9d5ab4e467	GET	undefined	/
+2023-06-21	12:15	a9ccae4d-1dd8-4382-a04e-6dff7f654288	GET	undefined	/
+2023-06-21	12:15	37899fcc-bb18-4137-9dff-7a6b0b48911a	GET	undefined	/css/styles.css
+2023-06-21	12:19	d1ccc7a9-2628-4319-9ccf-3ded01d1b395	GET	undefined	/dave
+2023-06-21	12:19	95911ea3-fb20-4e95-9e20-f09a446b515e	GET	undefined	/css/styles.css
