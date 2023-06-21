@@ -30,30 +30,11 @@ app.use(express.urlencoded({extended: false})); // form form
 
 app.use(express.json()); // for json files
 
-app.use(express.static(path.join(__dirname, '/public'))); // For all static file
+app.use('/', express.static(path.join(__dirname, '/public'))); // For all static file
+app.use('/subdir', express.static(path.join(__dirname, '/public'))); // For all subdir file
 
-// Creating a Route in express
-app.get('^/$|/index(.html)?', (req, res) => {
-    // res.sendFile('/views/index.html', { root: __dirname });
-    // OR
-    res.sendFile(path.join(__dirname, 'views', 'index.html'));
-});
-
-app.get('/new-page(.html)?', (req, res) => {
-    res.sendFile(path.join(__dirname, 'views', 'new-page.html'));
-});
-
-app.get('/old-page(.html)?', (req, res) => {
-    res.redirect(301, '/new-page.html')
-});
-
-// Routes Handler
-app.get('/hello(.html)?', (req, res, next) => {
-    console.log('Attempt to load file');
-    next()
-}, (req, res) => {
-    res.send('Hello World')
-})
+app.use('/', require('./routes/root'))
+app.use('/subdir', require('./routes/subdir'))
 
 app.all('*', (req, res) => {
     res.status(404);
