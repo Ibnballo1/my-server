@@ -59,3 +59,9 @@
 2023-06-21	06:48	d7490474-6af3-4d00-b7c0-6997416ffadb	POST	undefined	/employees
 2023-06-21	06:49	8bcf75fb-afd5-4ded-9dc4-0d7d56b0408f	PUT	undefined	/employees
 2023-06-21	06:50	ef469e63-1972-4bb9-84bb-e715f123466a	DELETE	undefined	/employees
+2023-06-22	04:57	849c77c4-18c4-46e6-9702-427db484c88a	POST	undefined	/register
+2023-06-22	04:58	14d941b8-426a-43e4-afcb-e33d9ee7ed34	POST	undefined	/register
+2023-06-22	04:59	f30f7174-87a0-4548-b405-4e3bf34b3477	POST	undefined	/register
+2023-06-22	05:01	5a4db970-7b72-4c42-b5e9-cdee47e82525	POST	undefined	/register
+2023-06-22	05:01	ac75001c-a5ac-40ad-9c7f-182ab56a66eb	POST	undefined	/register
+2023-06-22	05:02	08d8096e-e93a-4e18-a623-78c06183e111	POST	undefined	/register

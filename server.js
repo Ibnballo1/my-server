@@ -23,11 +23,11 @@ app.use(express.json()); // for json files
 app.use('/', express.static(path.join(__dirname, '/public'))); // For all static file
 
 app.use('/', require('./routes/root'))
-
+app.use('/register', require('./routes/register'))
 app.use('/employees', require('./routes/api/employees'));
 
 app.all('*', (req, res) => {
-    res.status(404);
+    res.status(400);
     if (req.accepts('html')) {
         res.sendFile(path.join(__dirname, 'views', '404.html'))
     } else if (req.accepts('json')) {
