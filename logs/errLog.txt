@@ -1,1 +1,2 @@
 2023-06-21	12:14	af987233-2bc4-4010-8d17-ff36a4084960	undefined: Not allowed by CORS
+2023-06-21	06:39	1ee329a7-dbc5-48c0-a5bc-f44b5ebbb4d8	undefined: employee.parseInt is not a function

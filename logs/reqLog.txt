@@ -51,3 +51,11 @@
 2023-06-21	03:29	e65c010c-ee37-4795-ab7f-354b052092ab	POST	undefined	/employees
 2023-06-21	03:30	df28df42-22bd-4f39-affe-d867a82634e4	PUT	undefined	/employees
 2023-06-21	03:31	066e9e63-631f-4724-b542-0f4ff99fb148	DELETE	undefined	/employees
+2023-06-21	06:36	9b372bfe-63bf-405c-81bf-6796d7c81d2c	GET	undefined	/employees
+2023-06-21	06:38	010f5b90-da99-4705-bee2-98ab0394d27f	POST	undefined	/employees
+2023-06-21	06:39	ecd4314b-8d6f-47b5-b1fe-457a154a6045	PUT	undefined	/employees
+2023-06-21	06:40	dc00e592-e8cc-4565-ba96-c22088d09cba	PUT	undefined	/employees
+2023-06-21	06:46	e85b507a-71e8-4b81-9914-728495723632	GET	undefined	/employees
+2023-06-21	06:48	d7490474-6af3-4d00-b7c0-6997416ffadb	POST	undefined	/employees
+2023-06-21	06:49	8bcf75fb-afd5-4ded-9dc4-0d7d56b0408f	PUT	undefined	/employees
+2023-06-21	06:50	ef469e63-1972-4bb9-84bb-e715f123466a	DELETE	undefined	/employees
