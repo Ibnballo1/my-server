@@ -1,2 +1,3 @@
 2023-06-21	12:14	af987233-2bc4-4010-8d17-ff36a4084960	undefined: Not allowed by CORS
 2023-06-21	06:39	1ee329a7-dbc5-48c0-a5bc-f44b5ebbb4d8	undefined: employee.parseInt is not a function
+2023-06-23	08:06	e26ad7b6-089e-40cb-b92c-5ead766dbb3b	undefined: authHedaer is not defined
